@@ -1,7 +1,7 @@
 # Prototipos
 ---
 Prototipo 1
-[Ver archivo](https://github.com/hopeosorio/Prototipos/blob/main/prototipo1.unitypackage).
+[Ver archivo](https://github.com/hopeosorio/Prototipos/blob/main/prototipo1.unitypackage)
 
 ---
 Prototipo 2
